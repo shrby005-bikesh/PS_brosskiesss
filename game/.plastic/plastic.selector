@@ -1,4 +1,3 @@
-repository "game@Bikeshstha@cloud"
+rep "game@Bikeshstha@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main" changeset "4" 
